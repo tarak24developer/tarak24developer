@@ -1,4 +1,4 @@
-# 💻 Hello, I'm Meruga Taraka Srinivas 👋  
+# Hello, I'm Meruga Taraka Srinivas 👋  
 
 ### 🚀 About Me  
 I am a **BTech Cybersecurity** student passionate about **technology, cybersecurity, and software development**. I thrive on solving complex challenges and creating innovative solutions.  
