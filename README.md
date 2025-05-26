@@ -1,7 +1,7 @@
 # 💻 Hello, I'm Meruga Taraka Srinivas 👋  
 
 ### 🚀 About Me  
-I am a **BTech 2nd Year CSE-Cybersecurity** student passionate about **technology, cybersecurity, and software development**. I thrive on solving complex challenges and creating innovative solutions.  
+I am a **BTech Cybersecurity** student passionate about **technology, cybersecurity, and software development**. I thrive on solving complex challenges and creating innovative solutions.  
 
 👨‍💻 I'm currently working on:  
 - **LES (Lab Examination Software)**: A product of **Kriaa Systems**, streamlining lab exams with innovative features.  
