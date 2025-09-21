@@ -5,12 +5,12 @@
 ---
 
 ## 🔹 About Me
-I am a **B.Tech Cybersecurity student (2023–2027) at Anurag University**, passionate about **solving CTF challenges**, **participating in hackathons**, and **exploring cybersecurity tools**. Alongside my technical pursuits, I am a skilled **graphic designer** proficient in **Canva, Photoshop, and Illustrator**, and an active **event strategist** involved in organizing and managing various events. I also have experience in **web development**, having contributed to startups like **MiVastu** and **Elysian Blue**. Additionally, I serve as the **Digital Head of Street Cause eForce**, **Webmaster for IEEE R10-SSIT SIT-30**, and am a **part-time teacher** recognised as a **Superteacher** on Superprof.
+I am a **B.Tech Cybersecurity student (2023–2027) at Anurag University**, passionate about **solving CTF challenges**, **participating in hackathons**, and **exploring cybersecurity tools**. Alongside my technical pursuits, I am a skilled **graphic designer** proficient in **Canva, Photoshop, and Illustrator**, and an active **event strategist** involved in organizing and managing various events. I also have experience in **web development**, having contributed to startups like **MiVastu** and **Elysian Blue**. Additionally, I serve as the **Digital Head of Street Cause eForce**, **Webmaster for IEEE R10-SSIT SIT-30**, and am a **part-time teacher** recognized as a **Superteacher** on Superprof.
 
 ---
 
 ## 🔹 Current Projects
-- **VORA** – Web development & digital strategy for startup
+- **VORA** – [Brief description of project if needed]
 - **MiVastu** – Web development & digital strategy for startup
 - **HRMS** – Human Resource Management System project
 
@@ -38,6 +38,7 @@ I am a **B.Tech Cybersecurity student (2023–2027) at Anurag University**, pass
 - Literaze Society – Anurag University
 - KRIYA Event Management Club – Anurag University
 - IEEE SSIT Member
+- Street Cause eForce – Executive Board Member & Digital Head
 
 ---
 
