@@ -10,7 +10,7 @@ I am a **B.Tech Cybersecurity student (2023–2027) at Anurag University**, pass
 ---
 
 ## 🔹 Current Projects
-- **VORA** – [Brief description of project if needed]
+- **VORA** – Clothing Brand
 - **MiVastu** – Web development & digital strategy for startup
 - **HRMS** – Human Resource Management System project
 
