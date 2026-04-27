@@ -1,57 +1,82 @@
-# Hi, I'm Meruga Taraka Srinivas 👋
+# Hi, I'm Taraka 👋
 
-**Cybersecurity Student | CTF Enthusiast | Web Developer | Graphic Designer | Event Strategist | Aspiring Entrepreneur**
-
----
-
-## 🔹 About Me
-I am a **B.Tech Cybersecurity student (2023–2027) at Anurag University**, passionate about **solving CTF challenges**, **participating in hackathons**, and **exploring cybersecurity tools**. Alongside my technical pursuits, I am a skilled **graphic designer** proficient in **Canva, Photoshop, and Illustrator**, and an active **event strategist** involved in organizing and managing various events. I also have experience in **web development**, having contributed to startups like **MiVastu** and **Elysian Blue**. Additionally, I serve as the **Digital Head of Street Cause eForce**, **Webmaster for IEEE R10-SSIT SIT-30**, and am a **part-time teacher** recognized as a **Superteacher** on Superprof.
+🔐 Cybersecurity Enthusiast | Web Security | Penetration Testing | CTF Player  
+💻 Web Developer | 🎨 Designer  
 
 ---
 
-## 🔹 Current Projects
-- **VORA** – Clothing Brand
-- **MiVastu** – Web development & digital strategy for startup
-- **HRMS** – Human Resource Management System project
+## 🚀 About Me
+I am a B.Tech Cybersecurity student (2023–2027) at Anurag University with hands-on experience in **network security, web application security, and vulnerability assessment**.
+
+I actively practice cybersecurity through:
+- Hack The Box  
+- TryHackMe  
+- Capture The Flag (CTF) challenges  
+
+I enjoy identifying vulnerabilities, analyzing systems, and building security-focused tools.
 
 ---
 
-## 🔹 I’m Exploring
-- Advanced **cybersecurity tools & CTF challenges**
-- New trends in **web development**
-- Emerging technologies for startups and digital solutions
+## 🧪 Projects
+
+### 🔹 SecVerse – APK Security Analyzer
+- Static analysis tool for Android APK files  
+- Extracts permissions, components, and security insights  
+- Helps identify potential vulnerabilities  
+
+### 🔹 WAF Scanner
+- Detects presence of Web Application Firewalls  
+- Analyzes HTTP responses and headers  
+- Useful for reconnaissance in penetration testing  
 
 ---
 
-## 🔹 Skills & Expertise
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=Kaspersky&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Development-000000?style=for-the-badge&logo=HTML5&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic_Design-000000?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
-![Event Management](https://img.shields.io/badge/Event_Management-000000?style=for-the-badge&logo=Eventbrite&logoColor=white)
-![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-000000?style=for-the-badge&logo=Startup&logoColor=white)
+## 🛠 Tools & Technologies
+
+### 🔐 Cybersecurity
+- Nmap / Zenmap  
+- Wireshark  
+- Burp Suite  
+- OWASP ZAP  
+- Metasploit  
+
+### 💻 Development
+- HTML, CSS, JavaScript  
+- React, Node.js, Express  
+- MySQL  
+
+### 🎨 Design
+- Canva  
+- Adobe Photoshop  
+- Illustrator  
 
 ---
 
-## 🔹 Community & Clubs
-- HackTheBox – Anurag University Student Chapter
-- Cyber Troopers Club – Anurag University
-- Literaze Society – Anurag University
-- KRIYA Event Management Club – Anurag University
-- IEEE SSIT Member
-- Street Cause eForce – Executive Board Member & Digital Head
+## 🧠 Currently Exploring
+- Web exploitation (XSS, SQLi, etc.)  
+- Bug bounty hunting  
+- Advanced penetration testing techniques  
+- AI in cybersecurity  
 
 ---
 
-## 🔹 GitHub Stats
-![Ttarak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarak24developer&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarak24developer&layout=compact&theme=tokyonight)
+## 🏆 Experience & Roles
+- Webmaster – IEEE SSIT (Anurag University)  
+- Digital Head – Street Cause eForce  
+- Technical Lead – Kriya Events & Literaze Society  
 
 ---
 
-## 🔹 Let's Connect
-- 📩 Email: tarak24developer@gmail.com
-- 💼 LinkedIn: [Meruga Taraka Srinivas](https://www.linkedin.com/in/taraka-srinivas-meruga/)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=tarak24developer&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarak24developer&layout=compact&theme=tokyonight)
 
 ---
 
-> “Striving at the intersection of Technology, Design, and Entrepreneurship.”
+## 🌐 Connect With Me
+- 📩 Email: merugatarak2006@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/taraka-srinivas-meruga  
+
+---
+
+⚡ *Focused on building practical cybersecurity skills and contributing to real-world security challenges.*
